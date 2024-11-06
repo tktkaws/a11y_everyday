@@ -67,3 +67,7 @@ https://goodpatch.com/blog/2024-10-accessibility-cost
 ■アクセシブルなフォーム
 フォームのアクセシビリティを考える
 https://azukiazusa.dev/blog/form-accessibility/
+
+■アクセシビリティでキャリアを築きたい
+副業
+https://culumu.com/service/accessibility
