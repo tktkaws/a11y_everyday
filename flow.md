@@ -71,3 +71,9 @@ https://azukiazusa.dev/blog/form-accessibility/
 ■アクセシビリティでキャリアを築きたい
 副業
 https://culumu.com/service/accessibility
+
+■最速[要出典]アクセシビリティチェック
+https://docs.google.com/presentation/d/16xM_XHva4h9JvF8Yfqdpxu2q2XjikQRgvHNDL0g4FFI/edit#slide=id.g2fbd433926a_0_0
+
+具体的な方法が列挙されていてかなり参考になる
+特にチェックシートの準備方法やチェックに役立つchrome拡張機能などの情報
