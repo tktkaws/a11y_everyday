@@ -90,3 +90,15 @@ https://www.jidaikobo.com/
 
 アクセシビリティの不具合について実際に公開されているサイトを使用して指摘するのは角が立つが、
 架空の自治体サイトを生成してくれるのでとても便利
+
+
+■SmartHR Design System　アクセシビリティ
+
+https://smarthr.design/accessibility/
+
+ウェブアクセシビリティ簡易チェックリスト
+https://smarthr.design/accessibility/check-list/
+
+ウェブアクセシビリティに関してよく取り上げられている事項について
+分かりやすくまとまっている
+最初期に読むテキストとしてよい
