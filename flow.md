@@ -110,5 +110,7 @@ https://smarthr.design/accessibility/check-list/
 社内でWebアクセシビリティを布教させるには
 
 ■safariの困りごと
+要件定義の段階では最新のsafariまで対応でよかったが、
+先方のお偉いさんが古いiphoneを使っていたため数バージョン古いsafariに対応せざるをえなくなった。
 
 ■
