@@ -124,3 +124,4 @@ WAI-ARIAを学ぶときに整理しておきたいこと	https://zenn.dev/yusuke
 Webアクセシビリティ学習リソースまとめ （2023年3月版）	https://zenn.dev/ubie_dev/articles/7e3a6559aeb4c8
 ウェブアクセシビリティ簡易チェックリスト | アクセシビリティ | SmartHR Design System	https://smarthr.design/accessibility/check-list/
 第6回　アクセシビリティを必須スキルとし、採用・研修・スキルアップをする | gihyo.jp	https://gihyo.jp/article/2023/03/improve-accessibility-in-organization-06
+alt 属性完全解説 - Master of Alternative Text　https://alt.lavoscore.org/
