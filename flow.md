@@ -113,4 +113,11 @@ https://smarthr.design/accessibility/check-list/
 要件定義の段階では最新のsafariまで対応でよかったが、
 先方のお偉いさんが古いiphoneを使っていたため数バージョン古いsafariに対応せざるをえなくなった。
 
-■
+■ヌーラボ アクセシビリティレポート #5
+https://nulab.com/ja/blog/nulab/a11y-report-05/
+
+■WCAG 2.2 達成基準 1.3.2 「意味のあるシーケンス」の検品について
+https://www.mitsue.co.jp/knowledge/blog/qc/202501/29_1403.html
+
+■アクセシビリティ推進の実情
+https://docs.google.com/presentation/d/1fmhCK5WhphYockiFWYMetcMNbViyyGaadN0GF0JO2O4/edit#slide=id.g329093ae8b3_0_183
