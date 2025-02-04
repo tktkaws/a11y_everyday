@@ -121,3 +121,6 @@ https://www.mitsue.co.jp/knowledge/blog/qc/202501/29_1403.html
 
 ■アクセシビリティ推進の実情
 https://docs.google.com/presentation/d/1fmhCK5WhphYockiFWYMetcMNbViyyGaadN0GF0JO2O4/edit#slide=id.g329093ae8b3_0_183
+
+■ブランドを毀損しないためのウェブアクセシビリティ ~攻守でバランスよく実現するブランド価値~｜モリサワ　note編集部
+https://note.morisawa.co.jp/n/n0259767b42c0
