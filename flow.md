@@ -128,3 +128,8 @@ https://note.morisawa.co.jp/n/n0259767b42c0
 ■みんコミュデザイン
 https://www.dentsu.co.jp/news/item-cms/communication_design_guide.pdf
 アクセシビリティだけではないDEIに関するコミュニケーションデザインのガイドライン
+
+■ウェブアクセシビリティ改善での生成AI活用を模索する
+https://zenn.dev/takanorip/articles/ad8437d4b5667e
+
+生成AIは現時点では既存の手法を完全に代替することはできませんが、アクセシビリティ改善の相談相手として有用である可能性が高いです。今後、プロンプトの改善やモデルのアップデートにより、より精度の高い分析が期待されます
